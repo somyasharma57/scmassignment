@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This file contains updated version of product
+=======
+This branch contains original version of product
+>>>>>>> merge
+this branch contains Updated version of product
